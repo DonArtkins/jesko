@@ -1,0 +1,6 @@
+{
+  "name": "Jesko Jets | Gulfstream G650ER Experience",
+  "description": "An identical frame-by-frame recreation of the Jesko Jets cinematic story flow and 3D Gulfstream G650ER aircraft animation, specifications, and cabin cutaway schematic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
